@@ -1,2 +1,2 @@
 # Prepcourse-Henry
-este es un repositrio del modulo 2 del prepcourse de Henry
+este es proyecto es como clonar un repocitorio local 
